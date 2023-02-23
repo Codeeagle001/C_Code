@@ -1,6 +1,6 @@
 #include <stdio.h>
-#delain LOW 1
-#delain HIG 9
+#define LOW 1
+#define HIG 9
 int main()
 {
     int i;
